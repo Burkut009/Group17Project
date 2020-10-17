@@ -9,7 +9,7 @@ public class Question1 {
 			for(int j=2;j<=i;j++) {
 				System.out.print(j);
 			}
-			System.out.println();
+			System.out.println(" " );
 		}
 		
 		for(int i=6;i>=1;i--) {
